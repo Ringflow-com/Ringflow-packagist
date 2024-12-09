@@ -1,7 +1,7 @@
 {
   "name": "Ringflow-com/ringflow-packagist",
   "description": "A simple package for Ringflow",
-  "version": "1.0.0",   // Specify the version here
+  "version": "1.0.0",
   "type": "library",
   "require": {
     "php": ">=7.4"
