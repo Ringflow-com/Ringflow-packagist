@@ -1,0 +1,13 @@
+{
+  "name": "Ringflow-com/ringflow-packagist",
+  "description": "A package description goes here",
+  "type": "library",  // or "project" depending on your use case
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "RingflowCom\\RingflowPackagist\\": "src/"
+    }
+  }
+}
